@@ -1,0 +1,6 @@
+D 'flex': Flexible pseudo maximum likelihood estimation of models for doubly-bounded data Use flex With STATA 18
+D
+F flex.ado
+F flex.sthlp
+F flex_ml.ado
+F flex_ml1.ado
