@@ -1,5 +1,7 @@
 # flex
-Flexible pseudo maximum likelihood estimation of models for doubly-bounded data Use flex With STATA 18
+Flexible pseudo maximum likelihood estimation of models for doubly-bounded data Use flex With STATA 19
+
+https://www.youtube.com/watch?v=ik0RH2K_Nd0
 
 Olah Data Semarang
 
